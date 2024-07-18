@@ -5,7 +5,7 @@ Welcome to the MERN Stack Starter Pack! This repository provides a pre-configure
 ## Directory Structure
 
 ```
-voting-app/
+Starter-pack/
 ├── client/
 └── server/
     ├── models/
